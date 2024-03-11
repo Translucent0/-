@@ -53,9 +53,9 @@ body {
     justify-content: center;
     align-items: center;
   }
-html{
+/* html{
    -ms-overflow-style: none;
 }
 html::-webkit-scrollbar{
   display:none;
-}
+} */
